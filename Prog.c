@@ -63,7 +63,7 @@ int main() {
     printf("Enter your name: ");
     scanf("%s", name);
 
-    // إضافة CE-ESY
+   
     strcat(name, "CE-ESY");
 
   
